@@ -1,0 +1,11 @@
+id: root
+type: Canvas
+children:
+  - id: Location Details
+    size: 1
+    type: Panel
+    layoutChildren: vertical
+    alignChildren: upper-center
+    children:
+      - id: title
+        type: Text
